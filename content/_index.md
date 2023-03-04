@@ -10,7 +10,7 @@ sections:
       username: admin
       text: |-
         白云贻意 , 清泉洗心 
-        {style="font-size: 2.4rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+        {style="font-size: 2.4rem; background: #FFFFFF; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
     design:
       background:
         color: black
