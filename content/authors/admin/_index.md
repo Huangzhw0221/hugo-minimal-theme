@@ -29,20 +29,20 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'huangzhiwei0221@163.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/ZhiweiHuang0221
   - icon: discord
     icon_pack: fab
     link: https://discord.com/invite/62R5Ucx23v
   - icon: github
     icon_pack: fab
     link: https://github.com/Huangzhw0221
-  - icon: square-github
-    icon_pack: fab
+  - icon: blog
+    icon_pack: fas
     link: https://huangzhw0221.github.io/
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/ZhiweiHuang0221
   - icon: file-pdf
     icon_pack: fas
     label: View Resume
