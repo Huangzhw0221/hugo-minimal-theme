@@ -26,27 +26,27 @@ bio: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'huangzhiwei0221@163.com'
-  - icon: discord
-    icon_pack: fab
-    link: https://discord.com/invite/62R5Ucx23v
   - icon: github
     icon_pack: fab
     link: https://github.com/Huangzhw0221
   - icon: blog
     icon_pack: fas
     link: https://huangzhw0221.github.io/
+  - icon: envelope
+    icon_pack: fas
+    link: 'huangzhiwei0221@163.com'
+  - icon: discord
+    icon_pack: fab
+    link: https://discord.com/invite/62R5Ucx23v
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ZhiweiHuang0221
-  - icon: file-pdf
-    icon_pack: fas
-    label: View Resume
-    link: uploads/personal_intro.pdf
+  #- icon: file-pdf
+  #  icon_pack: fas
+  #  label: View Resume
+  #  link: uploads/personal_intro.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
